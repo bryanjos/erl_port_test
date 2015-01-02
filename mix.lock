@@ -1,0 +1,1 @@
+%{"erlport": {:git, "git://github.com/hdima/erlport.git", "cb97c8be68d7070d9844b169fd63018d658edd5e", []}}
