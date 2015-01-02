@@ -11,8 +11,6 @@ So far I just added the erlport library to my dependencies
 And then tried calling it in iex:
 
 ```elixir
-iex(10)> result = :python.call(p, :operator, :add, [2,2])
-4
 iex(11)> {:ok, p} = :python.start()
 {:ok, #PID<0.116.0>}
 iex(12)> result = :python.call(p, :sys, :"version_info.__str__", [])
