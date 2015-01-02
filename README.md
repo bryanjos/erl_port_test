@@ -1,7 +1,7 @@
 ErlPortTest
 ===========
 
-This is just an example for me and whoever else needs it for using erlport and Elixir.
+This is just an example for me and whoever else needs it for using ErlPort to connect Python and Elixir.
 
 So far I just added the erlport library to my dependencies
   ```elixir
